@@ -1,7 +1,7 @@
 """
 @Auth:  Mark24Code
 @Email: mark.zhangyoung@qq.com
-@Data:  2017.12.08
+@Data:  2017.12.21
 
 @Intro:
 7. Reverse Integer
